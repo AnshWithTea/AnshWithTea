@@ -1,112 +1,19 @@
-<a href="https[://]github.com/AnshWithTea">
-  <img 
-    src="https[://]readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00BFFF&center=true&vCenter=true&width=1000&lines=Hi+there%2C+I'm+Ansh+Kature+👋;I+build+intelligent+code+with+precision.;I'm+an+AI+%26+Machine+Learning+Engineer;I'm+a+National+10m+Air+Rifle+Shooter" 
-    alt="Hi there, I'm Ansh Kature 👋" 
-  />
-</a>
+# 💫 About Me:
+- 🖥️ **As an AI/ML Engineer:**<br>    - Final-year Computer Science student at G. H. Raisoni College.<br>    - AI Intern at Codec Technologies, where I improved image classification accuracy by 12% using PyTorch.<br>    - Built **Pathfinder AI**, a full-stack career navigator using React, Flask, and the Google Gemini API.<br>    - Engineered a **Multilingual ASR System** with OpenAI Whisper and Hugging Face Transformers.<br>    - Developed **MedTrack**, a full-stack (MERN) digital health system with role-based dashboards and secure prescription management.<br><br>- 🎯 **As a National Athlete:**<br>    - I am a national-level 10m Air Rifle shooter with the goal of becoming an Olympian.<br>    - My achievements include a **Top 15 national rank**, **two gold medals** in Interuniversity competition, and representing my university at the All India University level.<br>    - The same discipline and precision I use on the range, I bring to my code.<br><br>- 🚀 **My Goal:**<br>    - I am actively seeking full-time AI/ML/Full-Stack opportunities starting June 2026.
 
-<p align="center">
-  As a final-year Computer Science student, my world revolves around two forms of precision: the **logic of code** and the **focus of a perfect shot**. 🎯
-  <br />
-  I am an AI/ML developer and a national-level 10m Air Rifle shooter on a mission to win an Olympic medal. The same discipline and resilience that I apply on the shooting range, I bring to building robust, end-to-end AI applications.
-</p>
 
-<p align="center">
-  <a href="https[://]linkedin.com/in/anshvkature" target="_blank">
-    <img src="https[://]img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:anshvkature@gmail.com" target="_blank">
-    <img src="https[://]img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  
-  <img src="https[://]komarev.com/ghpvc/?username=AnshWithTea&label=PROFILE+VIEWS&style=for-the-badge&color=00BFFF" alt="Profile Views" />
-</p>
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Ace~Ansh#0759) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/this_formalities_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/anshvkature) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@anshvkature) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anshvkature@gmail.com) 
+
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=Cloudflare&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat&logo=anaconda&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=flat&logo=react%20query&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=flat&logo=yarn&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=flat&logo=angularjs&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=flat&logo=spring&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) ![ApacheCassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=flat&logo=apache-cassandra&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=flat&logo=firebase&logoColor=ffcd34) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat&logo=adobe%20photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=flat&logo=adobe&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=flat&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat&logo=plotly&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=flat&logo=gitlab&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=flat&logo=powerbi&logoColor=black) ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=flat&logo=riotgames&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=flat&logo=nVIDIA&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=AnshWithTea&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=AnshWithTea&theme=nightowl&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AnshWithTea&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 
 ---
+[![](https://visitcount.itsvg.in/api?id=AnshWithTea&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### 💻 My Featured Projects
-<table border="0" cellpadding="10" cellspacing="0" align="center">
-  <tr align="center">
-    <td>
-      <a href="https[://]github.com/AnshWithTea/Pathfinder-AI">
-        <img src="https[://]PATH_TO_YOUR_PROJECT_IMAGE.png" width="400" alt="Pathfinder AI Project"/>
-      </a>
-      <br />
-      <a href="https[://]github.com/AnshWithTea/Pathfinder-AI">
-        <b>Pathfinder AI - Full-Stack Career Navigator</b>
-      </a>
-      [cite_start]<p>AI-powered guide using Google Gemini API, Flask, and React. [cite: 38, 40, 41, 42]</p>
-    </td>
-    
-    <td>
-      <a href="https[://]github.com/AnshWithTea/Medtrack">
-        <img src="https[://]PATH_TO_YOUR_PROJECT_IMAGE.png" width="400" alt="Medtrack Project"/>
-      </a>
-      <br />
-      <a href="https[://]github.com/AnshWithTea/Medtrack">
-        <b>Medtrack - Secure Digital Prescription Platform</b>
-      </a>
-      [cite_start]<p>A DRP (Django, React, PostgreSQL) app with JWT auth. [cite: 33, 35, 36, 37]</p>
-    </td>
-  </tr>
-  
-  <tr align="center">
-    <td>
-      <a href="https[://]github.com/AnshWithTea/Multilingual-ASR">
-        <img src="https[://]PATH_TO_YOUR_PROJECT_IMAGE.png" width="400" alt="Multilingual ASR Project"/>
-      </a>
-      <br />
-      <a href="https[://]github.com/AnshWithTea/Multilingual-ASR">
-        <b>Multilingual ASR System (Speech-to-Text)</b>
-      </a>
-      [cite_start]<p>High-accuracy transcription app using OpenAI Whisper & PyTorch. [cite: 43, 45, 46]</p>
-    </td>
-    
-    <td>
-      <img src="https[://]via.placeholder.com/400x200?text=Your+Next+Awesome+Project" width="400" alt="Coming Soon"/>
-      <br />
-      <b>Coming Soon...</b>
-      <p>Another AI-powered solution in the works.</p>
-    </td>
-  </tr>
-</table>
-
----
-
-### 🚀 My Skills & Tools
-
-<p align="center">
-  <img src="https[://]img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https[://]img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https[://]img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https[://]img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=black" />
-  <img src="https[://]img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
-  
-  <img src="https[://]img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https[://]img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https[://]img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https[://]img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  
-  <img src="https[://]img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https[://]img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-</p>
-
----
-
-### 📈 My GitHub Activity
-<p align="center">
-  <img src="https[://]github-readme-activity-graph.vercel.app/graph?username=AnshWithTea&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
-  <br/>
-  
-  <img 
-    src="https[://]github-readme-stats.vercel.app/api?username=AnshWithTea&show_icons=true&theme=radical&rank_icon=github&count_private=true&include_all_commits=true" 
-    alt="Ansh Kature's GitHub Stats" 
-    width="48%"
-  />
-  
-  <img 
-    src="https[://]github-readme-stats.vercel.app/api/top-langs/?username=AnshWithTea&layout=compact&theme=radical&langs_count=10" 
-    alt="Ansh Kature's Top Languages" 
-    width="48%"
-  />
-</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
