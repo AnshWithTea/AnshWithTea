@@ -2,9 +2,9 @@
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=AnshWithTea&label=Profile%20Views&color=0e75b6&style=flat" alt="AnshWithTea" /> </p>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=false&vCenter=false&width=435&lines=Computer+Science+Engineer+%F0%9F%92%BB;Full-Stack+Developer+%F0%9F%9A%80;AI%2FML+Enthusiast+%F0%9F%A4%96;National+Level+Shooter+%F0%9F%87%AE%F0%9F%87%B3" alt="Typing SVG" /></a>
-
----
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=false&vCenter=false&width=435&height=50&lines=Computer+Science+Engineer+%F0%9F%92%BB;Full-Stack+Developer+%F0%9F%9A%80;Data+Analyst+%F0%9F%93%8A;AI%2FML+Enthusiast+%F0%9F%A4%96;National+Level+Air+Rifle+Shooter+%F0%9F%87%AE%F0%9F%87%B3" alt="Typing SVG" />
+</a>
 
 - 🔭 **I’m currently working on:** Personalized Finance dashboard and PathFinder AI
 - 🌱 **I’m currently learning:** Advanced Computer Vision (YOLO) and Reinforcement Learning for traffic simulations
@@ -55,6 +55,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=AnshWithTea&show_icons=true&theme=radical" height="180" alt="AnshWithTea's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnshWithTea&layout=compact&theme=radical" height="180" alt="AnshWithTea's Top Languages" />
 </div>
+
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnshWithTea&theme=radical" alt="AnshWithTea's Streak" />
 </div>
